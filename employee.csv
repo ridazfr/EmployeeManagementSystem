@@ -1,0 +1,6 @@
+﻿Eno,INTEGER(3) ,It stores Employee ID
+Ename,VARCHAR(20),Stores Employee Name
+Eaddress,VARCHAR(50),Stores Address of Employee
+Eemailid,VARCHAR(50),Stores Email ID of Employee
+Ephone,CHAR(10),Stores Telephone of Employee
+Department,VARCHAR(15),Stores Employee's Department Name

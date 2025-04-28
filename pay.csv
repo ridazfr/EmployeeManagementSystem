@@ -1,0 +1,6 @@
+﻿PayID,INT(3),Stores Pay ID of Employee
+BasicPay,INT,Stores Basic Pay of Employee
+Allowance,INT,Stores Allowance  of Employee
+Deduction,INT,Stores Deduction  of Employee
+NetPay,INT,Stores Net Pay of Employee
+Eno,INT(3),References Eno of Table Employee

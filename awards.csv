@@ -1,0 +1,4 @@
+﻿AwardID,INT(3),Stores Award ID
+Year,INT(4),Stores Year the Employee was Awarded
+Particulars,VARCHAR(50),Stores Award Details
+Eno,INT(3),References Eno of Table Employee
